@@ -10,9 +10,7 @@ Welcome to the **Academic Text Simplification Model** project. This repository c
 - [Usage](#usage)
 - [Data](#data)
 - [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- [Evaluation](#results)
 - [Contact](#contact)
 
 ## Introduction
@@ -76,7 +74,7 @@ The model leverages advanced NLP techniques, including transformer-based archite
 - **Attention Mechanisms:** Capturing contextual relationships within the text.
 - **Decoder:** Generating simplified text.
 
-## Results
+## Evaluation
 
 The model's performance is evaluated using several metrics:
 
@@ -85,14 +83,6 @@ The model's performance is evaluated using several metrics:
 - **SARI:** Specifically designed for text simplification tasks, measuring the simplicity, adequacy, and fluency of the generated text.
 
 The results demonstrate the model's ability to produce simplified text that retains the original meaning while being easier to understand.
-
-## Contributing
-
-We welcome contributions to this project. If you have any suggestions or improvements, please open an issue or submit a pull request. Ensure that your contributions adhere to the project's coding standards and guidelines.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
