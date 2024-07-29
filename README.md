@@ -10,7 +10,7 @@ Welcome to the **Academic Text Simplification Model** project. This repository c
 - [Usage](#usage)
 - [Data](#data)
 - [Model Architecture](#model-architecture)
-- [Evaluation](#results)
+- [Evaluation](#evaluation)
 - [Contact](#contact)
 
 ## Introduction
